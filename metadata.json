@@ -1,0 +1,6 @@
+{
+  "name": "Reader",
+  "description": "Личное офлайн-приложение для чтения книг EPUB, FB2 и TXT с библиотекой, закладками и гибкими настройками отображения.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

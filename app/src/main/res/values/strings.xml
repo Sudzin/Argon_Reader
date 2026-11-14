@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="library_title">Библиотека</string>
+    <string name="add_books">Добавить книги</string>
+    <string name="search_books_hint">Поиск по названию или автору…</string>
+    <string name="sort_recent">Недавние</string>
+    <string name="sort_title">По названию</string>
+    <string name="sort_author">По автору</string>
+    <string name="filter_all">Все</string>
+    <string name="empty_library_title">Библиотека пуста</string>
+    <string name="empty_library_subtitle">Добавьте книги в форматах EPUB, FB2 или TXT через системный проводник или загрузите тестовый набор.</string>
+    <string name="load_sample_books">Загрузить 3 тестовые книги</string>
+    <string name="test_corrupted_file">Проверить битый файл</string>
+    <string name="delete_book">Удалить книгу</string>
+    <string name="toc_tab">Оглавление</string>
+    <string name="bookmarks_tab">Закладки</string>
+    <string name="display_settings">Настройки отображения</string>
+    <string name="search_in_book">Поиск по книге</string>
+    <string name="add_bookmark">Добавить закладку</string>
+    <string name="remove_bookmark">Удалить закладку</string>
+    <string name="tts_read_aloud">Чтение вслух (TTS)</string>
+    <string name="reading_stats">Статистика чтения</string>
+    <string name="backup_progress">Резервная копия прогресса</string>
+    <string name="restore_progress">Восстановить прогресс</string>
+</resources>
